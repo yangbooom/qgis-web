@@ -70,7 +70,7 @@
                 "items":[
                     {
                         "title": "Demo",
-                        "url": "http://qwc2.sourcepole.ch/ows/qwc_demo",
+                        "url": "http://qwc2.sourcepole.ch/ows/uster/bauprojekte",
                         "default": true,
                         "attribution": "Demo attribution",
                         "attributionUrl": "https://127.0.0.1/",
